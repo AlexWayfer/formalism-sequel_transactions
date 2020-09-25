@@ -8,7 +8,7 @@ module Formalism
 	## Main module which should be included into base form
 	module SequelTransactions
 		def initialize(*)
-			@runned_times = 0
+			@ran_times = 0
 
 			super
 		end
@@ -51,7 +51,7 @@ module Formalism
 		end
 
 		def run_without_transaction
-			before_retry if (@runned_times += 1) > 1
+			before_retry if (@ran_times += 1) > 1
 
 			is_valid = valid?
 
