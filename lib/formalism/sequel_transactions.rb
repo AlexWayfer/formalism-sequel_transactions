@@ -18,7 +18,7 @@ module Formalism
 
 			result = db_connection.in_transaction? ? run_without_transaction.last : run_with_transaction
 
-			Outcome.new(errors, result)
+			Form::Outcome.new(errors, result)
 		end
 
 		def before_retry
