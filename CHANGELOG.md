@@ -2,6 +2,10 @@
 
 ## master (unreleased)
 
+## 0.2.2 (2020-09-28)
+
+*   Update `formalism` to a new version.
+
 ## 0.2.1 (2020-09-25)
 
 *   Fix the issue with unknown `Outcome` constant.
