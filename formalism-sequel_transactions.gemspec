@@ -30,7 +30,7 @@ Gem::Specification.new do |spec|
 	spec.files = Dir['lib/**/*.rb', 'README.md', 'LICENSE.txt', 'CHANGELOG.md']
 
 	spec.add_runtime_dependency 'formalism', '~> 0.3.0'
-	spec.add_runtime_dependency 'sequel', '~> 5.0'
+	spec.add_runtime_dependency 'sequel', '5.37.0'
 
 	spec.add_development_dependency 'pry-byebug', '~> 3.9'
 
