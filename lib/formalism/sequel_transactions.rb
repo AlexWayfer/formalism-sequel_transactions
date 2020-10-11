@@ -22,11 +22,9 @@ module Formalism
 		end
 
 		def before_retry
-			super
-
 			nested_forms.each_value(&__method__)
 
-			filled_fields_and_nested_forms.clear
+			@filled_fields_and_nested_forms.clear
 
 			fill_fields_and_nested_forms
 		end
