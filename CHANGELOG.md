@@ -2,6 +2,12 @@
 
 ## master (unreleased)
 
+## 0.3.0 (2021-02-11)
+
+*   Support Ruby 3.
+*   Fix small errors.
+*   Update development dependencies.
+
 ## 0.2.2 (2020-09-28)
 
 *   Update `formalism` to a new version.
