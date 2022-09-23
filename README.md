@@ -5,8 +5,8 @@
 [![Code Climate](https://img.shields.io/codeclimate/maintainability/AlexWayfer/formalism-sequel_transactions.svg?style=flat-square)](https://codeclimate.com/github/AlexWayfer/formalism-sequel_transactions)
 [![Depfu](https://img.shields.io/depfu/AlexWayfer/benchmark_toys?style=flat-square)](https://depfu.com/repos/github/AlexWayfer/formalism-sequel_transactions)
 [![Inline docs](https://inch-ci.org/github/AlexWayfer/formalism-sequel_transactions.svg?branch=main)](https://inch-ci.org/github/AlexWayfer/formalism-sequel_transactions)
-[![license](https://img.shields.io/github/license/AlexWayfer/formalism-sequel_transactions.svg?style=flat-square)](https://github.com/AlexWayfer/formalism-sequel_transactions/blob/main/LICENSE.txt)
 [![Gem](https://img.shields.io/gem/v/formalism-sequel_transactions.svg?style=flat-square)](https://rubygems.org/gems/formalism-sequel_transactions)
+[![License](https://img.shields.io/github/license/AlexWayfer/formalism-sequel_transactions.svg?style=flat-square)](LICENSE.txt)
 
 [Sequel](https://sequel.jeremyevans.net/) transaction
 inside [Formalism](https://github.com/AlexWayfer/formalism) forms.
