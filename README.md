@@ -1,11 +1,11 @@
 # Formalism Sequel Transactions
 
 [![Cirrus CI - Base Branch Build Status](https://img.shields.io/cirrus/github/AlexWayfer/formalism-sequel_transactions?style=flat-square)](https://cirrus-ci.com/github/AlexWayfer/formalism-sequel_transactions)
-[![Codecov branch](https://img.shields.io/codecov/c/github/AlexWayfer/formalism-sequel_transactions/master.svg?style=flat-square)](https://codecov.io/gh/AlexWayfer/formalism-sequel_transactions)
+[![Codecov branch](https://img.shields.io/codecov/c/github/AlexWayfer/formalism-sequel_transactions/main.svg?style=flat-square)](https://codecov.io/gh/AlexWayfer/formalism-sequel_transactions)
 [![Code Climate](https://img.shields.io/codeclimate/maintainability/AlexWayfer/formalism-sequel_transactions.svg?style=flat-square)](https://codeclimate.com/github/AlexWayfer/formalism-sequel_transactions)
 [![Depfu](https://img.shields.io/depfu/AlexWayfer/benchmark_toys?style=flat-square)](https://depfu.com/repos/github/AlexWayfer/formalism-sequel_transactions)
-[![Inline docs](https://inch-ci.org/github/AlexWayfer/formalism-sequel_transactions.svg?branch=master)](https://inch-ci.org/github/AlexWayfer/formalism-sequel_transactions)
-[![license](https://img.shields.io/github/license/AlexWayfer/formalism-sequel_transactions.svg?style=flat-square)](https://github.com/AlexWayfer/formalism-sequel_transactions/blob/master/LICENSE.txt)
+[![Inline docs](https://inch-ci.org/github/AlexWayfer/formalism-sequel_transactions.svg?branch=main)](https://inch-ci.org/github/AlexWayfer/formalism-sequel_transactions)
+[![license](https://img.shields.io/github/license/AlexWayfer/formalism-sequel_transactions.svg?style=flat-square)](https://github.com/AlexWayfer/formalism-sequel_transactions/blob/main/LICENSE.txt)
 [![Gem](https://img.shields.io/gem/v/formalism-sequel_transactions.svg?style=flat-square)](https://rubygems.org/gems/formalism-sequel_transactions)
 
 [Sequel](https://sequel.jeremyevans.net/) transaction
