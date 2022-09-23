@@ -2,6 +2,14 @@
 
 ## Unreleased
 
+## 0.4.0 (2022-09-24)
+
+*   Drop Ruby 2.5 support.
+*   Add Ruby 3.1 for CI.
+*   Update `formalism` to a new version.
+*   Update development dependencies.
+*   Update metadata in gemspec.
+
 ## 0.3.0 (2021-02-11)
 
 *   Support Ruby 3.
