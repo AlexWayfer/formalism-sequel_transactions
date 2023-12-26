@@ -30,7 +30,7 @@ Gem::Specification.new do |spec|
 
 	spec.files = Dir['lib/**/*.rb', 'README.md', 'LICENSE.txt', 'CHANGELOG.md']
 
-	spec.required_ruby_version = '>= 2.7', '< 4'
+	spec.required_ruby_version = '>= 3.0', '< 4'
 
 	spec.add_runtime_dependency 'formalism', '~> 0.5.0'
 	spec.add_runtime_dependency 'sequel', '~> 5.0'
