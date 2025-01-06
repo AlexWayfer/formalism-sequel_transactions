@@ -2,6 +2,16 @@
 
 ## Unreleased
 
+## 0.5.0 (2025-01-06)
+
+*   Drop Ruby 2.6 and 2.7 support.
+*   Add Ruby 3.2, 3.3 and 3.4 support.
+*   Allow `formalism` version 0.6.
+*   Update development dependencies.
+*   Move development dependencies from `gemspec` into `Gemfile`.
+*   Resolve new RuboCop offenses.
+*   Improve CI config.
+
 ## 0.4.0 (2022-09-24)
 
 *   Drop Ruby 2.5 support.
