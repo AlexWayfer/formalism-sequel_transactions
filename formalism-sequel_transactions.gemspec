@@ -33,5 +33,5 @@ Gem::Specification.new do |spec|
 	spec.required_ruby_version = '>= 3.0', '< 4'
 
 	spec.add_dependency 'formalism', '>= 0.5', '< 0.7'
-	spec.add_dependency 'sequel', '~> 5.0'
+	spec.add_dependency 'sequel', '5.96.0'
 end
