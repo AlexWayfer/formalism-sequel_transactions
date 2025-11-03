@@ -34,5 +34,18 @@
 			"groupName": "Toys packages"
 		}
 	],
+	"customManagers": [
+		{
+			"customType": "regex",
+			"managerFilePatterns": [
+				"^*.gemspec"
+			],
+			"matchStrings": [
+				".*\\.add_(:?(?<depType>.*?)_)?dependency\\s*(['\"])(?<depName>[^'\"]+)(['\"])(\\s*,\\s*(?<currentValue>(['\"])[^'\"]+['\"](\\s*,\\s*['\"][^'\"]+['\"])?))?"
+			],
+			"datasourceTemplate": "rubygems",
+			"versioningTemplate": "ruby"
+		}
+	],
 	"separateMajorMinor": false
 }
