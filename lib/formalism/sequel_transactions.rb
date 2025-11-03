@@ -36,6 +36,8 @@ module Formalism
 			retry_on: [Sequel::SerializationFailure].freeze
 		}.freeze
 
+		private_constant :TRANSACTION_OPTIONS
+
 		def run_with_transaction
 			db_connection.transaction(**TRANSACTION_OPTIONS) do
 				db_connection.after_commit { after_db_transaction_commit }
