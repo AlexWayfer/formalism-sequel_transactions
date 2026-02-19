@@ -2,7 +2,6 @@
 
 [![Cirrus CI - Base Branch Build Status](https://img.shields.io/cirrus/github/AlexWayfer/formalism-sequel_transactions?style=flat-square)](https://cirrus-ci.com/github/AlexWayfer/formalism-sequel_transactions)
 [![Codecov branch](https://img.shields.io/codecov/c/github/AlexWayfer/formalism-sequel_transactions/main.svg?style=flat-square)](https://codecov.io/gh/AlexWayfer/formalism-sequel_transactions)
-[![Code Climate](https://img.shields.io/codeclimate/maintainability/AlexWayfer/formalism-sequel_transactions.svg?style=flat-square)](https://codeclimate.com/github/AlexWayfer/formalism-sequel_transactions)
 [![Depfu](https://img.shields.io/depfu/AlexWayfer/benchmark_toys?style=flat-square)](https://depfu.com/repos/github/AlexWayfer/formalism-sequel_transactions)
 [![Inline docs](https://inch-ci.org/github/AlexWayfer/formalism-sequel_transactions.svg?branch=main)](https://inch-ci.org/github/AlexWayfer/formalism-sequel_transactions)
 [![Gem](https://img.shields.io/gem/v/formalism-sequel_transactions.svg?style=flat-square)](https://rubygems.org/gems/formalism-sequel_transactions)
